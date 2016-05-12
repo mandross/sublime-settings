@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Emmet",
+		"Jinja2",
+		"Package Control",
+		"Sass",
+		"SublimeREPL"
+	],
+	"repositories":
+	[
+	]
+}
