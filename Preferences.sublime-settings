@@ -1,10 +1,8 @@
 {
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"dpi_scale": 2.0,
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 12,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
 	"rulers":
 	[
 		80,
